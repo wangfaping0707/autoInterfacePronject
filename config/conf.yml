@@ -1,0 +1,33 @@
+#{
+#  "Base": {
+#    "log_level": "debug",
+#    "log_extension": ".log",
+#    "fat": {
+#      "url": "http://211.103.136.242:8064",
+#      "case_excel_file": "data1.xlsx",
+#      "sheet_name": "个人信息表"
+#    }
+#  },
+#  "email": {
+#    "smtpserver": "smtp.163.com",
+#    "username": "demon119@163.com",
+#    "password": "test123456",
+#    "receiver": "demon119@163.com"
+#  }
+#}
+
+
+Base:
+  log_level: debug  #日志等级
+  log_extension: .log # 日志扩展名
+  fat:
+    url: http://211.103.136.242:8064
+    case_excel_file: data1.xlsx
+    sheet_name: 个人信息表
+email:
+  smtpserver: smtp.163.com
+  username: demon119@163.com
+  password: test123456
+  receiver: demon119@163.com
+
+

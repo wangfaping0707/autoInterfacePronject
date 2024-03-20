@@ -1,0 +1,8 @@
+name: test_yaml
+result: success
+color:
+#  - 这是红色
+  - red
+  - blue
+  - white
+  - green

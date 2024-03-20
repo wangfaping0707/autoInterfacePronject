@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Feb 18 12:48:02 CST 2024","Sun Feb 18 12:48:02 CST 2024","0","testcase.t_allure","test_allure1","TestAllureDemo","","","陈诗雨","验证动态变化参数"
+"passed","Sun Feb 18 12:48:02 CST 2024","Sun Feb 18 12:48:02 CST 2024","0","testcase.t_allure","test_allure1","TestAllureDemo","","","用例标题：物流",""
+"passed","Sun Feb 18 12:48:02 CST 2024","Sun Feb 18 12:48:02 CST 2024","0","testcase.t_allure","test_allure1","TestAllureDemo","","","王晓涵","验证动态变化参数"
+"passed","Sun Feb 18 12:48:02 CST 2024","Sun Feb 18 12:48:02 CST 2024","0","testcase.t_allure","test_allure1","TestAllureDemo","","","用例标题：支付",""
+"passed","Sun Feb 18 12:48:02 CST 2024","Sun Feb 18 12:48:02 CST 2024","0","testcase.t_allure","test_allure1","TestAllureDemo","","","用例标题：购买",""
+"passed","Sun Feb 18 12:48:02 CST 2024","Sun Feb 18 12:48:02 CST 2024","0","testcase.t_allure","test_allure1","TestAllureDemo","","","康利智","验证动态变化参数"

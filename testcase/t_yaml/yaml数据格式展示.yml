@@ -1,0 +1,37 @@
+# 对象：yaml键值对；即Python中字典
+user: 'admin'
+pwd: 'admin@123'
+site: "www.yaml.com"
+# 解析后: {'user': 'admin', 'password': 'admin@123', 'site': 'www.yaml.com'}
+
+# 2. 数组：yaml键值对中嵌套数组
+user2:
+ - a
+ - b
+ - c
+user3:
+ - d
+# 解析后：{'user2':['a','b','c'],'user3':['d']}
+
+# 3. 纯量
+val_name: name      # 字符串: {'val_name': 'name'}
+spec_val: "name\n" # 特殊字符串: {'spec_val': 'name\n'}
+pi_val: 3.14        # 数字: {'pi_val': 3.14}
+bol_val: true       # 布尔值: {'bol_val': true}
+nul_val: null       # null值: {'nul_val': None}
+nul_val: ~          # null值: {'nul_val': None}
+time_val: 2023-02-03t22:33:22.33-03:00      # 时间值：{'time_val': datetime.datetime(2023, 2, 3, 22, 33, 22, 330000)}
+date_val: 2024-01-01        # 日期值：{'date_val': datetime.date(2024, 1, 1)}
+
+# 4. 引用
+name: &name 白云
+tester: *name
+# 相当于
+name: 白云
+tester: 白云
+# 解析后内容：{'name': '白云', 'tester': '白云'}
+
+# 5. 强制转换
+str: !!str 3.14
+int: !!int "666"
+# 输出: {'str': '3.14','int': 123}

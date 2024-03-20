@@ -1,0 +1,8 @@
+#编写数据库相关信息
+db_1:
+  db_host: localhost
+  db_user: root
+  db_passwd: "123456"
+  db_name: sakila
+  db_charset: utf8
+  db_port: 3306

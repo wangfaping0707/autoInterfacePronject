@@ -1,0 +1,12 @@
+---
+    用户名称1: test001
+    用户密码1: paas001
+    color1:
+      - blue
+      - green
+---
+    用户名称2: test002
+    用户密码2: paas002
+    color2:
+      - red
+      - yellow

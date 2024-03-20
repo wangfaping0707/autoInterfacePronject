@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="08b8ce9f-6d4e-4b1a-ab89-f16f5136c52b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/common/Base.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/testcase/t_excel/test_excel_case.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/testcase/t_fixture/test_use_module_fix.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/testcase/t_args/conftest.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/testcase/t_log/log_demo.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/pymsql_demo/p3.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/utils/RequestsUtil.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/config/22.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/config/11.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/testcase/t_fixture/test_101_demo.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/testcase/t_allure/re模块.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/testcase/t_allure/11.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/utils/jsonpath_demo.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/testcase/t_fixture/test_params_fix.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/testcase/t_fixture/test_fix1.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/testcase/t_log/根据时间来进行日志文件切割.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/testcase/t_log/使用单例模式封装logger.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/pytest.ini" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/run.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/testcase/t_fixture/test_102_demo.py" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="2Y50H1PA3cOKjTRg5mU8jSNBUJP" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../webproject" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\InterAutoTest_W\utils" />
+      <recent name="D:\InterAutoTest_W\testcase\t_fixture" />
+      <recent name="D:\InterAutoTest_W\data" />
+      <recent name="D:\InterAutoTest_W\testcase\t_excel" />
+      <recent name="D:\InterAutoTest_W\testcase\t_pytest" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.使用单例模式封装logger">
+    <configuration name="根据时间来进行日志文件切割" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="InterAutoTest_W" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/t_log" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcase/t_log/根据时间来进行日志文件切割.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="11" type="PythonConfigurationType" factoryName="Python">
+      <module name="InterAutoTest_W" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/config" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/config/11.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="log_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="InterAutoTest_W" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/t_log" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcase/t_log/log_demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="使用单例模式封装logger" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="InterAutoTest_W" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/t_log" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcase/t_log/使用单例模式封装logger.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_demo" type="PythonConfigurationType" factoryName="Python">
+      <module name="InterAutoTest_W" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/t_pytest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcase/t_pytest/test_demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_auth_demo.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="InterAutoTest_W" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/t_args" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testcase/t_args/test_auth_demo.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_two_args.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="InterAutoTest_W" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/t_args" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testcase/t_args/test_two_args.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.使用单例模式封装logger" />
+        <item itemvalue="Python.根据时间来进行日志文件切割" />
+        <item itemvalue="Python.log_demo" />
+        <item itemvalue="Python tests.pytest in test_two_args.py" />
+        <item itemvalue="Python tests.pytest in test_auth_demo.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08b8ce9f-6d4e-4b1a-ab89-f16f5136c52b" name="Default Changelist" comment="" />
+      <created>1699800041992</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699800041992</updated>
+      <workItem from="1699800049836" duration="2709000" />
+      <workItem from="1699884121255" duration="1886000" />
+      <workItem from="1700055562843" duration="3385000" />
+      <workItem from="1700486647217" duration="865000" />
+      <workItem from="1700492171222" duration="11000" />
+      <workItem from="1700578623142" duration="1966000" />
+      <workItem from="1700661210885" duration="6087000" />
+      <workItem from="1700836928073" duration="4329000" />
+      <workItem from="1700894062249" duration="25110000" />
+      <workItem from="1700977658890" duration="13729000" />
+      <workItem from="1701052692057" duration="27673000" />
+      <workItem from="1701147659895" duration="25840000" />
+      <workItem from="1701225015492" duration="16291000" />
+      <workItem from="1701310607639" duration="2788000" />
+      <workItem from="1701313544056" duration="18494000" />
+      <workItem from="1701426149167" duration="1366000" />
+      <workItem from="1701488945620" duration="14257000" />
+      <workItem from="1701575732733" duration="17042000" />
+      <workItem from="1701658362527" duration="609000" />
+      <workItem from="1701741066541" duration="1279000" />
+      <workItem from="1701826513335" duration="4726000" />
+      <workItem from="1701840824024" duration="23002000" />
+      <workItem from="1701918667284" duration="12646000" />
+      <workItem from="1702003767728" duration="2231000" />
+      <workItem from="1702084528773" duration="1996000" />
+      <workItem from="1702176762599" duration="8442000" />
+      <workItem from="1702261589088" duration="4620000" />
+      <workItem from="1702343529196" duration="6427000" />
+      <workItem from="1702456289221" duration="4511000" />
+      <workItem from="1702520977368" duration="1734000" />
+      <workItem from="1702560474066" duration="3852000" />
+      <workItem from="1702610057219" duration="5557000" />
+      <workItem from="1702792069671" duration="9851000" />
+      <workItem from="1702868325340" duration="11159000" />
+      <workItem from="1702953270760" duration="5693000" />
+      <workItem from="1702981291757" duration="2503000" />
+      <workItem from="1703219017481" duration="4279000" />
+      <workItem from="1703313343840" duration="2405000" />
+      <workItem from="1703484599264" duration="261000" />
+      <workItem from="1703506197335" duration="1546000" />
+      <workItem from="1703579751560" duration="1267000" />
+      <workItem from="1703606255492" duration="36000" />
+      <workItem from="1703606345512" duration="1249000" />
+      <workItem from="1703609615848" duration="8000" />
+      <workItem from="1703673418924" duration="221000" />
+      <workItem from="1703675140443" duration="59000" />
+      <workItem from="1703675216810" duration="107000" />
+      <workItem from="1703675482348" duration="199000" />
+      <workItem from="1703675693163" duration="69000" />
+      <workItem from="1703675773197" duration="23000" />
+      <workItem from="1703689867376" duration="160000" />
+      <workItem from="1703752087242" duration="663000" />
+      <workItem from="1703774516291" duration="1000" />
+      <workItem from="1704285093612" duration="1470000" />
+      <workItem from="1704336671526" duration="2078000" />
+      <workItem from="1706599017991" duration="1974000" />
+      <workItem from="1706761019728" duration="11644000" />
+      <workItem from="1707034731345" duration="1617000" />
+      <workItem from="1707193890337" duration="1217000" />
+      <workItem from="1707360982977" duration="2325000" />
+      <workItem from="1707637521282" duration="1838000" />
+      <workItem from="1707731020961" duration="1786000" />
+      <workItem from="1707799327139" duration="2312000" />
+      <workItem from="1707890087707" duration="2467000" />
+      <workItem from="1707973838149" duration="2496000" />
+      <workItem from="1708060534837" duration="6518000" />
+      <workItem from="1708140441709" duration="13294000" />
+      <workItem from="1708224462814" duration="12268000" />
+      <workItem from="1708317372097" duration="5650000" />
+      <workItem from="1708399962881" duration="2312000" />
+      <workItem from="1708751685343" duration="953000" />
+      <workItem from="1709196524162" duration="270000" />
+      <workItem from="1709196963893" duration="707000" />
+      <workItem from="1709477445133" duration="638000" />
+      <workItem from="1709519497767" duration="6148000" />
+      <workItem from="1709610455579" duration="1820000" />
+      <workItem from="1709711600484" duration="1805000" />
+      <workItem from="1709781807610" duration="2417000" />
+      <workItem from="1709877822696" duration="5814000" />
+      <workItem from="1709962014628" duration="615000" />
+      <workItem from="1710046210873" duration="1879000" />
+      <workItem from="1710210576965" duration="6000" />
+      <workItem from="1710210650371" duration="39000" />
+      <workItem from="1710237925747" duration="33000" />
+      <workItem from="1710400607825" duration="859000" />
+      <workItem from="1710663934079" duration="13396000" />
+      <workItem from="1710729642677" duration="1555000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$testlgin.coverage" NAME="testlgin Coverage Results" MODIFIED="1701163105949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_yaml" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$YamlUtil.coverage" NAME="YamlUtil Coverage Results" MODIFIED="1702189634712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$run.coverage" NAME="run Coverage Results" MODIFIED="1708231682073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$CONF.coverage" NAME="CONF Coverage Results" MODIFIED="1701338103615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$test_demo.coverage" NAME="test_demo Coverage Results" MODIFIED="1706765923085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_pytest" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$.coverage" NAME="根据时间来进行日志文件切割 Coverage Results" MODIFIED="1710677035851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_log" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$ExcelData.coverage" NAME="ExcelData Coverage Results" MODIFIED="1702269099534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$pytest_demo.coverage" NAME="pytest_demo Coverage Results" MODIFIED="1701058807046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_pytest" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$1.coverage" NAME="1 Coverage Results" MODIFIED="1701180260360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_pytest/outputs" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$pytest_in_test_func_py.coverage" NAME="pytest in test_func.py Coverage Results" MODIFIED="1706764438466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_pytest" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$pytest_in_test_103_demo_py.coverage" NAME="pytest in test_103_demo.py Coverage Results" MODIFIED="1702191007980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_fixture" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$11.coverage" NAME="11 Coverage Results" MODIFIED="1701523650726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$11__1_.coverage" NAME="11 (1) Coverage Results" MODIFIED="1702806122553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_allure" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$test_excel_demo.coverage" NAME="test_excel_demo Coverage Results" MODIFIED="1701840395341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_excel" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$d1.coverage" NAME="d1 Coverage Results" MODIFIED="1707974637990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/requests_lib" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$test_excel_case.coverage" NAME="test_excel_case Coverage Results" MODIFIED="1701826895163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_excel" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$pytest_in_test_allure_demo_py.coverage" NAME="pytest in test_allure_demo.py Coverage Results" MODIFIED="1701942679575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_allure" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$pytest_in_test_fix2_py.coverage" NAME="pytest in test_fix2.py Coverage Results" MODIFIED="1708149155391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_fixture" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$test_pytest_html.coverage" NAME="test_pytest_html Coverage Results" MODIFIED="1701059207830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_pytest" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$pytest_in_test_params_two_py.coverage" NAME="pytest in test_params_two.py Coverage Results" MODIFIED="1702561580288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_pytest" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$pytest_in_test_use_module_fix_py.coverage" NAME="pytest in test_use_module_fix.py Coverage Results" MODIFIED="1707362972392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_fixture" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$openpyxl_demo.coverage" NAME="openpyxl_demo Coverage Results" MODIFIED="1708243233469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$yaml_demo.coverage" NAME="yaml_demo Coverage Results" MODIFIED="1702883654184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_yaml" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$ExcelUtil.coverage" NAME="ExcelUtil Coverage Results" MODIFIED="1708243230044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$p2.coverage" NAME="p2 Coverage Results" MODIFIED="1701003327901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pymsql_demo" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$test_params_two.coverage" NAME="test_params_two Coverage Results" MODIFIED="1701075113714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_pytest" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$jsonpath_demo.coverage" NAME="jsonpath_demo Coverage Results" MODIFIED="1709549776740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$logger.coverage" NAME="使用单例模式封装logger Coverage Results" MODIFIED="1710684680561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_log" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$pytest_in_test_excel_demo_py.coverage" NAME="pytest in test_excel_demo.py Coverage Results" MODIFIED="1708243781530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_excel" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$pytest_in_test_params_one_py.coverage" NAME="pytest in test_params_one.py Coverage Results" MODIFIED="1706788856168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_pytest" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$p3.coverage" NAME="p3 Coverage Results" MODIFIED="1701006032100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pymsql_demo" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$testlogin.coverage" NAME="testlogin Coverage Results" MODIFIED="1701163688106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_yaml" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$pytest_in_test_02_demo_py.coverage" NAME="pytest in test_02_demo.py Coverage Results" MODIFIED="1702190541136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_fixture" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$LogUtil.coverage" NAME="LogUtil Coverage Results" MODIFIED="1702636626977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$log_demo.coverage" NAME="log_demo Coverage Results" MODIFIED="1710667582696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_log" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$p1.coverage" NAME="p1 Coverage Results" MODIFIED="1701007519940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pymsql_demo" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$log_console_demo.coverage" NAME="log_console_demo Coverage Results" MODIFIED="1702456536316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_log" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$22.coverage" NAME="22 Coverage Results" MODIFIED="1701609507285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$d22.coverage" NAME="d22 Coverage Results" MODIFIED="1709525341219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$start.coverage" NAME="start Coverage Results" MODIFIED="1702365345944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_yaml" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$pytest_in_test_auth_demo_py.coverage" NAME="pytest in test_auth_demo.py Coverage Results" MODIFIED="1709883299450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_args" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$1__1_.coverage" NAME="1 (1) Coverage Results" MODIFIED="1701182902246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$pytest_in_test_fix1_py.coverage" NAME="pytest in test_fix1.py Coverage Results" MODIFIED="1702801304139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_fixture" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$ReadCsv.coverage" NAME="ReadCsv Coverage Results" MODIFIED="1708241695930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$conftest.coverage" NAME="conftest Coverage Results" MODIFIED="1702263358402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_modifyitems" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$Base.coverage" NAME="Base Coverage Results" MODIFIED="1701344674390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$pytest_func.coverage" NAME="pytest_func Coverage Results" MODIFIED="1701058154170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_pytest" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$pytest_in_test_demo01_py.coverage" NAME="pytest in test_demo01.py Coverage Results" MODIFIED="1706764346369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_modifyitems" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$Test_Mail.coverage" NAME="Test_Mail Coverage Results" MODIFIED="1700057920982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$re.coverage" NAME="re模块 Coverage Results" MODIFIED="1702807320640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_allure" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$pytest_in_test_two_args_py.coverage" NAME="pytest in test_two_args.py Coverage Results" MODIFIED="1709884894218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_args" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$test_params_one.coverage" NAME="test_params_one Coverage Results" MODIFIED="1701074964933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_pytest" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$EmailUtil.coverage" NAME="EmailUtil Coverage Results" MODIFIED="1701344017671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$pytest_in_test_params_fix_py.coverage" NAME="pytest in test_params_fix.py Coverage Results" MODIFIED="1702801129107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_fixture" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$test_allure_demo.coverage" NAME="test_allure_demo Coverage Results" MODIFIED="1701324940262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_allure" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$pytest_in_test_101_demo_py.coverage" NAME="pytest in test_101_demo.py Coverage Results" MODIFIED="1702562959662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_fixture" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$pytest_in_test_subprocess_demo_py.coverage" NAME="pytest in test_subprocess_demo.py Coverage Results" MODIFIED="1702084546845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_subprocess" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$pytest_in_test_01_demo_py.coverage" NAME="pytest in test_01_demo.py Coverage Results" MODIFIED="1702188433707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_fixture" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$pytest_in_test_params_multi_py.coverage" NAME="pytest in test_params_multi.py Coverage Results" MODIFIED="1706787239198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_pytest" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$test_login.coverage" NAME="test_login Coverage Results" MODIFIED="1701163741721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_yaml" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$fhfhf.coverage" NAME="fhfhf Coverage Results" MODIFIED="1701183498775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$conf.coverage" NAME="conf Coverage Results" MODIFIED="1700898356699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$test_subprocess_demo.coverage" NAME="test_subprocess_demo Coverage Results" MODIFIED="1701331955571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_subprocess" />
+  </component>
+</project>

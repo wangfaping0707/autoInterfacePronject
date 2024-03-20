@@ -1,0 +1,19 @@
+-
+  story: "获取统一鉴权码接口测试"
+  title: $ddt{name}
+  request:
+    method: get
+    url: ${read_config(base_url)}/cgi-bin/token
+    params:
+      grant_type: $ddt{grant_type}
+      appid: $ddt{appid}
+      secret: $ddt{secret}
+  extract:
+    access_token: '"access_token":"(.*?)"'
+    expires_in: $.expire_in
+  parameterize:
+    - ['name', 'appid', 'secret','assert_str']
+    - ['检查appid为空', 100, '342hd34h45ehd34hsd343hs', 'client_credential',40013]
+  validate:
+    - status_code: 200
+    - contains: $ddt{assert_str}

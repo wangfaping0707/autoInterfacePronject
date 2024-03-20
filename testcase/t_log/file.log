@@ -1,0 +1,6 @@
+2023-11-25 19:59:17,568   小灰机来啦  INFO  日志同时输出到控制台和文件.py  [line:23]  this is a info message
+2023-11-25 19:59:17,568   小灰机来啦  WARNING  日志同时输出到控制台和文件.py  [line:24]  this is a FBI warning
+2023-11-25 19:59:52,559   小灰机来啦  INFO  日志同时输出到控制台和文件.py  [line:23]  this is a info message
+2023-11-25 19:59:52,559   小灰机来啦  WARNING  日志同时输出到控制台和文件.py  [line:24]  this is a FBI warning
+2023-11-25 19:59:55,004   小灰机来啦  INFO  日志同时输出到控制台和文件.py  [line:23]  this is a info message
+2023-11-25 19:59:55,004   小灰机来啦  WARNING  日志同时输出到控制台和文件.py  [line:24]  this is a FBI warning
