@@ -7,7 +7,6 @@
 3、输出这个文件
 """
 import yaml
-
 # 读取单个文件
 with open('./data.yml', mode='r', encoding='utf-8') as f:
 	res1 = yaml.safe_load(f)
@@ -32,7 +31,7 @@ yml_data = ["蓝色", 1234, "green", {"name": "肖雨涵", "age": 18, "sex": "fe
 
 # --------写入数据的方法
 def write_yaml(data, file):
-	with open(file, mode='wt', encoding='utf_8') as f:
+	with open(file, mode='w', encoding='utf_8') as f:
 		# yaml.dump(data=data, stream=f, allow_unicode=True)
 		print('我正在执行写入操作。。。。。。。。。。。')
 		yaml.safe_dump(data=data, stream=f, allow_unicode=True)

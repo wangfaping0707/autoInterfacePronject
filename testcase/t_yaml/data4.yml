@@ -1,0 +1,16 @@
+Info:
+  name: 陈晓飞
+  age: 31
+  sex: male
+  hobby:
+    - 跑步
+    - 游泳
+    - 读书
+    - 篮球
+    - 骑车
+  city: 上海
+  color:
+    Bright: [蓝色，红色，紫色，黄色，绿色，粉红色]
+    darkness: [黑色，灰色，白色，棕色]
+  phone: 13896717561
+  lucky_num: [1, 6, 7, 8, 9]

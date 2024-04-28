@@ -1,7 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08b8ce9f-6d4e-4b1a-ab89-f16f5136c52b" name="Default Changelist" comment="" />
+    <list default="true" id="08b8ce9f-6d4e-4b1a-ab89-f16f5136c52b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/adduser.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/config.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/config_info.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/login.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extract.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2024-04-25.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/t_configparser/config_info.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/t_configparser/configparser模块详解.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/t_configparser/new_config.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/029964d7-a3b9-41bd-9a31-b52fb6beeb31-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/14223709-2f21-46c2-96f5-7c9e4a7fb67e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/2fdcfc56-646f-470b-ad80-dd8151fd1985-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/34e52c97-10aa-47a3-84fd-7aa49268db72-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/3eb8bab5-9b7c-49a0-9030-b5913ec3b4d4-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/405fc942-9723-4bc0-9eba-297c3eb48193-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/42e06c15-dc2c-48a7-8c98-5b5f1d9d51ef-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/4fa19dd4-5836-4b94-935a-03ed28fddd6c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/593b76a0-ed69-42ad-be18-59f123c00e99-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/639e7077-b54f-456e-806a-0c84d76bf07d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/67738801-2a6f-41fd-9fec-c69caad99470-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/76adc331-e14d-461c-89d6-27cecc270312-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/808b407d-48e6-4a62-9116-33a2ae94ac97-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/818a2933-170d-4879-b39f-35aafa076f57-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/8b892e84-9357-47f1-b111-3b0431644a0b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/918ad67e-8676-4a6f-8e75-ba7ce1c3d0c4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/93e1e0f2-a55d-48a4-b7b9-6e7c7d466f5a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/95e37216-eb23-4770-9fff-dac103ed907c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/ab6a916a-5a39-41f7-8fe8-fc08793a66ee-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/ab8d2e00-a2c8-4371-b47c-3063a4c20375-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/ac2af796-797f-4f75-9805-9923f4380067-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/b184f458-7423-48bd-870a-ff78923f9e31-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/b780fc40-8201-4907-8a2e-4c2cf80581cd-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/c21d7232-3b59-4510-b73f-4d9c6f7a5db6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/c63933f1-a5fc-4b41-befb-54eff964a17d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/c853f33f-1f23-42ee-925a-34fb3d682fd4-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/c8a62394-277e-491d-b5ed-deee61f78f1b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/e86471af-0642-4fdb-b639-da81d8573f71-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/f02a4a4b-7808-48e4-9fe2-36f909c640a5-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/f9ec5637-695a-4db0-b12a-de82d0d44545-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/fd7544a0-23b7-454c-a22b-8880e770adcc-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/fe8ba106-ffb7-4972-ba29-ef94386ad2c8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/t_yaml/data4.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/apiutils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/configparserUtil.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/debugtalk.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/CONF.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/CONF.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/t_yaml/yaml_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/t_yaml/yaml_demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/AssertUtil.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/AssertUtil.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/RequestsUtil.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/RequestsUtil.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/YamlUtil.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/YamlUtil.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/fhfhf.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/fhfhf.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,40 +69,53 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/common/Base.py" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/testcase/t_excel/test_excel_case.py" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/testcase/t_fixture/test_use_module_fix.py" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/testcase/t_args/conftest.py" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/testcase/t_log/log_demo.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/pymsql_demo/p3.py" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/utils/RequestsUtil.py" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/config/22.py" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/config/11.py" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/testcase/t_fixture/test_101_demo.py" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/testcase/t_allure/re模块.py" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/testcase/t_allure/11.py" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/utils/jsonpath_demo.py" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/testcase/t_fixture/test_params_fix.py" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/testcase/t_fixture/test_fix1.py" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/testcase/t_log/根据时间来进行日志文件切割.py" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/testcase/t_log/使用单例模式封装logger.py" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/pytest.ini" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/run.py" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/testcase/t_fixture/test_102_demo.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/utils/YamlUtil.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/common/Base.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/testcase/t_log/log_demo.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/pymsql_demo/p3.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/utils/RequestsUtil.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/utils/AssertUtil.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/utils/debugtalk.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/testcase/t_fixture/test_101_demo.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/testcase/t_allure/re模块.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/testcase/t_allure/11.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/testcase/t_fixture/test_params_fix.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/testcase/t_configparser/configparser模块详解.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/utils/apiutils.py" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="2Y50H1PA3cOKjTRg5mU8jSNBUJP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../webproject" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/data" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\InterAutoTest_W\data" />
       <recent name="D:\InterAutoTest_W\utils" />
       <recent name="D:\InterAutoTest_W\testcase\t_fixture" />
-      <recent name="D:\InterAutoTest_W\data" />
       <recent name="D:\InterAutoTest_W\testcase\t_excel" />
       <recent name="D:\InterAutoTest_W\testcase\t_pytest" />
     </key>
@@ -65,29 +132,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.使用单例模式封装logger">
-    <configuration name="根据时间来进行日志文件切割" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="InterAutoTest_W" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/t_log" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcase/t_log/根据时间来进行日志文件切割.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.configparserUtil">
     <configuration name="11" type="PythonConfigurationType" factoryName="Python">
       <module name="InterAutoTest_W" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -110,7 +155,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="log_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="CONF" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="InterAutoTest_W" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,12 +163,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/t_log" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/config" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcase/t_log/log_demo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/config/CONF.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,7 +177,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="使用单例模式封装logger" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="LogUtil" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="InterAutoTest_W" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,12 +185,56 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/t_log" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utils" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcase/t_log/使用单例模式封装logger.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils/LogUtil.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="configparserUtil" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="InterAutoTest_W" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils/configparserUtil.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="p1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="InterAutoTest_W" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pymsql_demo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pymsql_demo/p1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,45 +265,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in test_auth_demo.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest in test_params_fix.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="InterAutoTest_W" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/t_args" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/t_fixture" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/testcase/t_args/test_auth_demo.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest in test_two_args.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="InterAutoTest_W" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/t_args" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/testcase/t_args/test_two_args.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testcase/t_fixture/test_params_fix.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.使用单例模式封装logger" />
-        <item itemvalue="Python.根据时间来进行日志文件切割" />
-        <item itemvalue="Python.log_demo" />
-        <item itemvalue="Python tests.pytest in test_two_args.py" />
-        <item itemvalue="Python tests.pytest in test_auth_demo.py" />
+        <item itemvalue="Python.configparserUtil" />
+        <item itemvalue="Python tests.pytest in test_params_fix.py" />
+        <item itemvalue="Python.LogUtil" />
+        <item itemvalue="Python.CONF" />
+        <item itemvalue="Python.p1" />
       </list>
     </recent_temporary>
   </component>
@@ -315,20 +388,76 @@
       <workItem from="1710400607825" duration="859000" />
       <workItem from="1710663934079" duration="13396000" />
       <workItem from="1710729642677" duration="1555000" />
+      <workItem from="1710925811909" duration="1314000" />
+      <workItem from="1712121923853" duration="2464000" />
+      <workItem from="1712126988491" duration="3593000" />
+      <workItem from="1712298802599" duration="598000" />
+      <workItem from="1712382759067" duration="1231000" />
+      <workItem from="1712650336755" duration="4516000" />
+      <workItem from="1712734283496" duration="1406000" />
+      <workItem from="1712892351136" duration="1488000" />
+      <workItem from="1712978855185" duration="1869000" />
+      <workItem from="1713083254416" duration="1247000" />
+      <workItem from="1713168273298" duration="3788000" />
+      <workItem from="1713233195320" duration="3129000" />
+      <workItem from="1713355066072" duration="5603000" />
+      <workItem from="1713408348015" duration="7735000" />
+      <workItem from="1713496648265" duration="10098000" />
+      <workItem from="1713586416102" duration="893000" />
+      <workItem from="1713758777890" duration="12744000" />
+      <workItem from="1713841830390" duration="18308000" />
+      <workItem from="1713925436842" duration="3471000" />
+      <workItem from="1714011375269" duration="4223000" />
+      <workItem from="1714108139602" duration="2418000" />
+      <workItem from="1714196696181" duration="6201000" />
+      <workItem from="1714309275405" duration="665000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/YamlUtil.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python_path/Python37-32/Lib/configparser.py</url>
+          <line>140</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/InterAutoTest_W$testlgin.coverage" NAME="testlgin Coverage Results" MODIFIED="1701163105949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_yaml" />
-    <SUITE FILE_PATH="coverage/InterAutoTest_W$YamlUtil.coverage" NAME="YamlUtil Coverage Results" MODIFIED="1702189634712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$YamlUtil.coverage" NAME="YamlUtil Coverage Results" MODIFIED="1713854658761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$run.coverage" NAME="run Coverage Results" MODIFIED="1708231682073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/InterAutoTest_W$CONF.coverage" NAME="CONF Coverage Results" MODIFIED="1701338103615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$test_demo.coverage" NAME="test_demo Coverage Results" MODIFIED="1706765923085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_pytest" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$CONF.coverage" NAME="CONF Coverage Results" MODIFIED="1714015308085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$.coverage" NAME="根据时间来进行日志文件切割 Coverage Results" MODIFIED="1710677035851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_log" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$ExcelData.coverage" NAME="ExcelData Coverage Results" MODIFIED="1702269099534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$configparser.coverage" NAME="configparser模块详解 Coverage Results" MODIFIED="1713516707359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_configparser" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$pytest_demo.coverage" NAME="pytest_demo Coverage Results" MODIFIED="1701058807046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_pytest" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$1.coverage" NAME="1 Coverage Results" MODIFIED="1701180260360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_pytest/outputs" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$pytest_in_test_func_py.coverage" NAME="pytest in test_func.py Coverage Results" MODIFIED="1706764438466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_pytest" />
@@ -347,6 +476,7 @@
     <SUITE FILE_PATH="coverage/InterAutoTest_W$yaml_demo.coverage" NAME="yaml_demo Coverage Results" MODIFIED="1702883654184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_yaml" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$ExcelUtil.coverage" NAME="ExcelUtil Coverage Results" MODIFIED="1708243230044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$p2.coverage" NAME="p2 Coverage Results" MODIFIED="1701003327901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pymsql_demo" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$apiutils.coverage" NAME="apiutils Coverage Results" MODIFIED="1713885643971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$test_params_two.coverage" NAME="test_params_two Coverage Results" MODIFIED="1701075113714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_pytest" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$jsonpath_demo.coverage" NAME="jsonpath_demo Coverage Results" MODIFIED="1709549776740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$logger.coverage" NAME="使用单例模式封装logger Coverage Results" MODIFIED="1710684680561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_log" />
@@ -355,9 +485,10 @@
     <SUITE FILE_PATH="coverage/InterAutoTest_W$p3.coverage" NAME="p3 Coverage Results" MODIFIED="1701006032100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pymsql_demo" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$testlogin.coverage" NAME="testlogin Coverage Results" MODIFIED="1701163688106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_yaml" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$pytest_in_test_02_demo_py.coverage" NAME="pytest in test_02_demo.py Coverage Results" MODIFIED="1702190541136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_fixture" />
-    <SUITE FILE_PATH="coverage/InterAutoTest_W$LogUtil.coverage" NAME="LogUtil Coverage Results" MODIFIED="1702636626977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$log_demo.coverage" NAME="log_demo Coverage Results" MODIFIED="1710667582696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_log" />
-    <SUITE FILE_PATH="coverage/InterAutoTest_W$p1.coverage" NAME="p1 Coverage Results" MODIFIED="1701007519940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pymsql_demo" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$LogUtil.coverage" NAME="LogUtil Coverage Results" MODIFIED="1714015319976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$debugtalk.coverage" NAME="debugtalk Coverage Results" MODIFIED="1713883812807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$p1.coverage" NAME="p1 Coverage Results" MODIFIED="1714011513843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pymsql_demo" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$log_console_demo.coverage" NAME="log_console_demo Coverage Results" MODIFIED="1702456536316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_log" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$22.coverage" NAME="22 Coverage Results" MODIFIED="1701609507285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$d22.coverage" NAME="d22 Coverage Results" MODIFIED="1709525341219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
@@ -375,14 +506,15 @@
     <SUITE FILE_PATH="coverage/InterAutoTest_W$pytest_in_test_two_args_py.coverage" NAME="pytest in test_two_args.py Coverage Results" MODIFIED="1709884894218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_args" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$test_params_one.coverage" NAME="test_params_one Coverage Results" MODIFIED="1701074964933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_pytest" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$EmailUtil.coverage" NAME="EmailUtil Coverage Results" MODIFIED="1701344017671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
-    <SUITE FILE_PATH="coverage/InterAutoTest_W$pytest_in_test_params_fix_py.coverage" NAME="pytest in test_params_fix.py Coverage Results" MODIFIED="1702801129107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_fixture" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$pytest_in_test_params_fix_py.coverage" NAME="pytest in test_params_fix.py Coverage Results" MODIFIED="1714118983699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_fixture" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$test_allure_demo.coverage" NAME="test_allure_demo Coverage Results" MODIFIED="1701324940262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_allure" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$pytest_in_test_101_demo_py.coverage" NAME="pytest in test_101_demo.py Coverage Results" MODIFIED="1702562959662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_fixture" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$pytest_in_test_subprocess_demo_py.coverage" NAME="pytest in test_subprocess_demo.py Coverage Results" MODIFIED="1702084546845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_subprocess" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$pytest_in_test_01_demo_py.coverage" NAME="pytest in test_01_demo.py Coverage Results" MODIFIED="1702188433707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_fixture" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$pytest_in_test_params_multi_py.coverage" NAME="pytest in test_params_multi.py Coverage Results" MODIFIED="1706787239198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_pytest" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$test_login.coverage" NAME="test_login Coverage Results" MODIFIED="1701163741721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_yaml" />
-    <SUITE FILE_PATH="coverage/InterAutoTest_W$fhfhf.coverage" NAME="fhfhf Coverage Results" MODIFIED="1701183498775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$fhfhf.coverage" NAME="fhfhf Coverage Results" MODIFIED="1713872330259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$configparserUtil.coverage" NAME="configparserUtil Coverage Results" MODIFIED="1714227790554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$conf.coverage" NAME="conf Coverage Results" MODIFIED="1700898356699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$test_subprocess_demo.coverage" NAME="test_subprocess_demo Coverage Results" MODIFIED="1701331955571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_subprocess" />
   </component>

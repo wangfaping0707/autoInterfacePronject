@@ -75,7 +75,7 @@ class ConfigYaml():
 		获取测试用例excel名称
 		:return:
 		"""
-		return self.config[0]['Base']['fat']['case_excel_file']
+		return self.config['Base']['fat']['case_excel_file']
 
 	# 获取sheet表格名称
 	def get_excel_sheet(self):
@@ -83,15 +83,15 @@ class ConfigYaml():
 		获取测试用例sheet名称
 		:return:
 		"""
-		return self.config[0]['Base']['fat']['sheet_name']
+		return self.config['Base']['fat']['sheet_name']
 
 	# 获取日志级别
 	def get_config_log_level(self):
-		return self.config[0]['Base']['log_level']
+		return self.config['Base']['log_level']
 
 	# 获取日志文件扩展名
 	def get_config_log_extention(self):
-		return self.config[0]['Base']['log_extension']
+		return self.config['Base']['log_extension']
 
 	def get_db_config_info(self, db_alias):
 		"""
@@ -99,18 +99,20 @@ class ConfigYaml():
 		:param db_alias:
 		:return:
 		"""
-		return self.db_config[0][db_alias]
+		return self.db_config[db_alias]
 
 	# 返回邮箱信息
 	def get_email_info(self):
-		return self.config[0]['email']
+		return self.config['email']
 
 
 if __name__ == '__main__':
-	config_info = ConfigYaml().get_config_url()
-	print(config_info)
+	config_info = ConfigYaml()
+	print(config_info.config)
+	print(config_info.db_config)
 	print(ConfigYaml().get_config_log_level())
 	print(ConfigYaml().get_config_log_extention())
+	print('**********************************************')
 	print(ConfigYaml().get_db_config_info('db_1'))
 	print(ConfigYaml().get_excel_file())
 	print(ConfigYaml().get_excel_sheet())

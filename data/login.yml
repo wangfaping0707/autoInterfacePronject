@@ -1,0 +1,11 @@
+- baseinfo:
+    api_name: 用户登录
+    url: /dar/user/login
+    method: post
+    header:
+        Content-Type: application/x-www-formurlencoded;charset=UTF-8
+    testCase:
+        - case: 用户正常登录校验
+          data:
+              username: test01
+              password: admin123

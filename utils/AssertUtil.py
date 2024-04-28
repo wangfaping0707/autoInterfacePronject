@@ -39,8 +39,8 @@ class AssertUtil:
 			self.log.error(f'响应码错误，预期返回状态码{body},实际返回状态码{expected_body}')
 			raise e
 
-	# 验证bod包含
-	def assert_body(self, body, expected_body):
+	# 验证body包含
+	def assert_bodys(self, body, expected_body):
 		"""
 		验证返回结果是否包含 期望结果
 		:param body:
@@ -54,4 +54,3 @@ class AssertUtil:
 		except Exception as e:
 			self.log.error(f'不包含或body体转换json格式报错，预期返回状态码{body},实际返回状态码{expected_body}')
 			raise e
-
