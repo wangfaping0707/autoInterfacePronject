@@ -1,0 +1,22 @@
+- baseinfo:
+    api_name: 文件上传接口
+    url: /dar/user/upload
+    method: post
+    headers:
+      Content-Type: application/x-www-formurlencoded;charset=UTF-8
+    cookies:
+      cookie: 75hb6j35b4n766j36kk756j43436k56jk34j6
+  testCase:
+    - case: 文件正常上传
+      files:
+        file: ./data/login.yml
+      validation:
+#        - contain: {'msg':'${get_extract_data(login_status)}'}
+        - code: 200
+        - contain: {'msg':'登录成功'}
+        - eq: {'res':'走在奋斗的路上'}
+        - ne: {'ros': '加油'}
+      extract:
+#        token: '"token":"(.+?)"'
+        token: $.token
+        msg: '"msg_code": (\d+)'

@@ -1,0 +1,20 @@
+[36m  2024-05-19 18:55:42,818   __main__  DEBUG  log_tool.py  [line:73]  [log_tool:<module>]  debug日志输出。。。。。[0m
+[32m  2024-05-19 18:55:42,818   __main__  INFO  log_tool.py  [line:74]  [log_tool:<module>]  info日志输出。。。。。。[0m
+[31m  2024-05-19 18:55:42,818   __main__  ERROR  log_tool.py  [line:75]  [log_tool:<module>]  error日志输出。。。。。。[0m
+[33m  2024-05-19 18:55:42,818   __main__  WARNING  log_tool.py  [line:76]  [log_tool:<module>]  warning日志输出。。。。。。[0m
+[31m  2024-05-19 18:55:42,818   __main__  CRITICAL  log_tool.py  [line:77]  [log_tool:<module>]  critical日志输出。。。。。。[0m
+2024-05-19 18:56:11,925   __main__  DEBUG  log_tool.py  [line:73]  [log_tool:<module>]  debug日志输出。。。。。
+2024-05-19 18:56:11,925   __main__  INFO  log_tool.py  [line:74]  [log_tool:<module>]  info日志输出。。。。。。
+2024-05-19 18:56:11,925   __main__  ERROR  log_tool.py  [line:75]  [log_tool:<module>]  error日志输出。。。。。。
+2024-05-19 18:56:11,925   __main__  WARNING  log_tool.py  [line:76]  [log_tool:<module>]  warning日志输出。。。。。。
+2024-05-19 18:56:11,925   __main__  CRITICAL  log_tool.py  [line:77]  [log_tool:<module>]  critical日志输出。。。。。。
+2024-05-19 19:11:35,579  utils.log_tool.log_tool  INFO  assertion_tools.py  [line:31]  [assertion_tools:assert_statue_code]  状态码断言成功：接口实际返回状态码200 == 200
+2024-05-19 19:11:35,579  utils.log_tool.log_tool  INFO  assertion_tools.py  [line:61]  [assertion_tools:assert_contain]  包含模式断言成功：预期结果【登录成功】存在于实际结果【登录成功】中
+2024-05-19 19:11:35,579  utils.log_tool.log_tool  INFO  assertion_tools.py  [line:61]  [assertion_tools:assert_contain]  包含模式断言成功：预期结果【red】存在于实际结果【red】中
+2024-05-19 19:11:35,579  utils.log_tool.log_tool  INFO  assertion_tools.py  [line:91]  [assertion_tools:assert_equal]  相等断言成功：接口预期结果{'red_flag': '革命进行中'} == 接口返回实际结果{'red_flag': '革命进行中'}
+2024-05-19 19:11:35,579  utils.log_tool.log_tool  INFO  assertion_tools.py  [line:91]  [assertion_tools:assert_equal]  相等断言成功：接口预期结果{'sex': 'female'} == 接口返回实际结果{'sex': 'female'}
+2024-05-19 19:11:35,579  utils.log_tool.log_tool  INFO  assertion_tools.py  [line:131]  [assertion_tools:assert_not_equal]  不相等断言成功：接口预期结果{'size': 20} ！= 接口返回实际结果{'size': 201}
+2024-05-19 19:11:35,579  utils.log_tool.log_tool  INFO  assertion_tools.py  [line:131]  [assertion_tools:assert_not_equal]  不相等断言成功：接口预期结果{'blue_flag': '苹果'} ！= 接口返回实际结果{'blue_flag': '苹果1'}
+2024-05-19 19:11:35,579  utils.log_tool.log_tool  INFO  assertion_tools.py  [line:201]  [assertion_tools:assert_result]  接口测试成功
+2024-05-19 19:25:20,476  utils.log_tool.log_tool  ERROR  apiutils_single.py  [line:183]  [apiutils_single:execute_test_cases]  接口调用出现异常，请检查
+2024-05-19 19:25:22,714  utils.log_tool.log_tool  ERROR  apiutils_single.py  [line:183]  [apiutils_single:execute_test_cases]  接口调用出现异常，请检查

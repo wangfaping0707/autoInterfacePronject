@@ -27,3 +27,7 @@ if __name__ == '__main__':
 	print(*loo)
 	print(re.escape(r'${get_current_timestamp()}')
 )
+import json
+dic ={'a':1,'b':2}
+
+print(f'仿佛----{json.dumps(dic)}')

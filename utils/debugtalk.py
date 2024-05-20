@@ -16,7 +16,7 @@ class DebugTalk:
 		:return:
 		"""
 		# 调用yaml工具类中，专门读取extract.yml文件的方法，且先读取第一个节点数据
-		data = YamlReader(r'../extract.yml').get_extract_yaml(node_name)
+		data = YamlReader(r'./extract.yml').get_extract_yaml(node_name)
 		# 正则表达式判断是否为一个数字
 		if out_format is not None and bool(re.search(r'^[+-]?\d+$', str(out_format))):
 			out_format = int(out_format)
@@ -49,7 +49,7 @@ class DebugTalk:
 	def get_headers(self, params_type):
 		"""
 		获取请求头类型
-		:param params_type: 请求参数类型，如 json 或 data
+		:param       params_type: 请求参数类型，如 json 或 data
 		:return:
 		"""
 		headers_dict = {

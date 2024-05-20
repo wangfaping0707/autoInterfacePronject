@@ -2,8 +2,7 @@ import requests
 import json
 from requests import utils
 import re
-
-
+from utils.log_tool.log_tool import logger
 # 两种封装请求类
 # 方式一：
 class Requests:
@@ -70,16 +69,27 @@ class SendRequests:
 			if set_cookie:
 				print(f'接口返回的cookie：{set_cookie}')
 		except requests.exceptions as e:
-			print('接口请求出现异常')
+			logger.error('接口调用出现异常，异常信息如下：')
 			raise e
 
 		return response
 
-	def execute_api_request(self, method, url, params=None, data=None, headers=None, cookies=None, files=None,
-	                        verify=False, json=None, **kwargs):
+	def execute_api_request(self, api_name, url, method, headers, case_name, cookies=None, files=None, **kwargs):
+		"""
+		发起接口请求方法
+		:param api_name: 接口名称
+		:param url: 接口地址
+		:param method: 请求方法
+		:param headers: 请求头
+		:param case_name: 测试用例名称
+		:param cookies: cookie
+		:param files:  上传的文件
+		:param kwargs: 未知数量的关键字参数
+		:return:
+		"""
 		# 接口调用响应结果
-		response = self.send_request(method=method, url=url, params=params, data=data, headers=headers, cookies=cookies,
-		                             files=files, verify=verify, json=json, **kwargs)
+		response = self.send_request(method=method, url=url, headers=headers, cookies=cookies,
+		                             files=files, timeout=10, verify=False, **kwargs)
 
 		return response
 
@@ -96,3 +106,6 @@ class SendRequests:
 		else:
 			res = res_text
 		return res
+
+# if __name__ == '__main__':
+# 	SendRequests().execute_api_request()

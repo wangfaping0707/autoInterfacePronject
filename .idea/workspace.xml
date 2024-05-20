@@ -2,58 +2,265 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08b8ce9f-6d4e-4b1a-ab89-f16f5136c52b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/adduser.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/config.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/config_info.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/login.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extract.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/2024-04-25.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/t_configparser/config_info.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/t_configparser/configparser模块详解.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/t_configparser/new_config.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/029964d7-a3b9-41bd-9a31-b52fb6beeb31-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/14223709-2f21-46c2-96f5-7c9e4a7fb67e-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/2fdcfc56-646f-470b-ad80-dd8151fd1985-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/34e52c97-10aa-47a3-84fd-7aa49268db72-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/3eb8bab5-9b7c-49a0-9030-b5913ec3b4d4-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/405fc942-9723-4bc0-9eba-297c3eb48193-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/42e06c15-dc2c-48a7-8c98-5b5f1d9d51ef-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/4fa19dd4-5836-4b94-935a-03ed28fddd6c-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/593b76a0-ed69-42ad-be18-59f123c00e99-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/639e7077-b54f-456e-806a-0c84d76bf07d-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/67738801-2a6f-41fd-9fec-c69caad99470-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/76adc331-e14d-461c-89d6-27cecc270312-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/808b407d-48e6-4a62-9116-33a2ae94ac97-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/818a2933-170d-4879-b39f-35aafa076f57-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/8b892e84-9357-47f1-b111-3b0431644a0b-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/918ad67e-8676-4a6f-8e75-ba7ce1c3d0c4-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/93e1e0f2-a55d-48a4-b7b9-6e7c7d466f5a-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/95e37216-eb23-4770-9fff-dac103ed907c-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/ab6a916a-5a39-41f7-8fe8-fc08793a66ee-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/ab8d2e00-a2c8-4371-b47c-3063a4c20375-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/ac2af796-797f-4f75-9805-9923f4380067-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/b184f458-7423-48bd-870a-ff78923f9e31-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/b780fc40-8201-4907-8a2e-4c2cf80581cd-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/c21d7232-3b59-4510-b73f-4d9c6f7a5db6-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/c63933f1-a5fc-4b41-befb-54eff964a17d-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/c853f33f-1f23-42ee-925a-34fb3d682fd4-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/c8a62394-277e-491d-b5ed-deee61f78f1b-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/e86471af-0642-4fdb-b639-da81d8573f71-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/f02a4a4b-7808-48e4-9fe2-36f909c640a5-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/f9ec5637-695a-4db0-b12a-de82d0d44545-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/fd7544a0-23b7-454c-a22b-8880e770adcc-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/t_fixture/outputs/allure_results_files/fe8ba106-ffb7-4972-ba29-ef94386ad2c8-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/t_yaml/data4.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/apiutils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/configparserUtil.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/debugtalk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/businessScenario/getProductDetails.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/businessScenario/productBusiness.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/getproductList.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/productdata/getProductDetails.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/productdata/getProductList.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/079228ab-cd6a-4e5f-9026-22dd4eaa71e4-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/081eb849-a61a-4835-8281-5d6ef8bb6f98-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/0bc3e5b9-9b7c-4800-b263-dd73bffbd700-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/0ef5ebcd-4b3c-4d71-9443-590af1644c63-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/105858e7-6251-4bba-8fd6-120e3f769f54-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/10dc59f7-c60a-45e2-a998-d079d3a27423-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/12e53194-3607-475c-b036-7c5ae43e83ec-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/14a5bd44-de30-495f-813c-5e0314fb21a8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/15c9bc7e-bbf5-405b-b789-856df9eae63f-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/16baedcf-3fc5-44f8-8dfb-1e05924e3dde-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/171ffb53-bead-40c8-84b4-94266ac5f2ae-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/184d1177-4a8d-42be-ad8f-84c148f0d6c6-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/1aa48c8b-c524-4999-9006-642e1aeece87-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/1cc2db80-7431-4aac-84f8-561beedd089d-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/1d9302a7-cfa9-49c3-9cd5-c808927bbeaa-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/2a3259dc-862a-469f-a7f1-8f11fc9555a0-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/2b4a8823-3f0c-4e1d-8185-e14f44f97ce3-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/2b5af956-c9ba-4554-ab58-36fbf82aee1d-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/34e95f93-40b6-48fc-9303-0de6af3c4930-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/35db8977-bf09-4eb5-99bc-681e06dceed6-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/3ca9ca55-7f69-486b-8ebe-f19180a98202-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/4bf37d1f-874d-4993-80ee-4d1e4742bef4-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/4cf654da-8e7c-4dfd-b09c-55bb6b7501ad-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/531773fe-e8d7-4598-8745-86f5fe1b27f2-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/535be5f0-4768-4157-a3a3-b85fb0274a65-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/5997c381-20fc-4b6b-986f-1531b4c5b132-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/65674b28-a925-4029-9015-b7f8b56db866-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/669025b5-f51a-4d9d-904e-3eb4f445593a-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/6c14b583-25c4-461e-a783-f098294128e2-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/6e0d47ed-0cbd-40ec-a9f4-7b3fd382459b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/7286f00a-ebd4-4daa-9ae1-313b37e847c9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/74c86f3c-2029-41e4-a27c-312ba0e5fea2-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/7d1a8c4b-33b7-4f3d-aa20-2b07518c4fc8-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/81ed0e9e-2049-4fd9-babd-18894771b716-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/994b5836-e49c-4a19-95a6-7b2f7a656ebb-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/99558b22-edc6-4f47-a8d6-8b84404fd83f-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/9ffc417a-9697-4e2a-9e27-8bffd010c3ff-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/a630ab56-866a-4fdf-9745-9c6157b95309-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/a766f4da-fc7a-48b1-a32e-9a4b646d51a7-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/afccbe64-06cd-4a29-9b92-ad02234747fe-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/b0ba3151-d0d8-4766-8271-4356e05e1f13-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/b4d59112-3f6e-4504-8d49-2a6d13f0e336-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/c5c28175-6001-48d8-a2b0-b965a0f5c7af-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/c76802bd-1b38-4942-be1b-5024c69df3ec-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/c77ccdb2-79ea-4b31-9d80-7a1ea2d1aa28-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/c7823d02-b1e8-46fb-9ff1-208717f174dd-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/c7a0398c-0f3c-4ab0-8c2c-9c8c9fffed38-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/cafc9a34-3efd-42d8-955c-c38dfe2a5bf9-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/d1ae6b0f-bb17-47aa-ad7e-4d24734990bb-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/d23408d1-7b27-42e7-a4a1-b1adeefc3b1f-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/d653dd8d-552a-4ab7-860b-4d9122cd78d6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/d65e568e-4e47-4d90-89a4-91ff4d9a97b7-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/d86eabcb-a499-4556-b610-ea14e6bd7eaf-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/d9c18c35-ce37-4c21-8536-8037b48d4883-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/db8dba13-81ac-4a9e-a93d-fa9df3ae60b7-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/e14b2a32-56e3-483d-922c-4d4160c03671-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/ea92d94b-7533-4a04-bc4a-1e89a9b89a4e-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/eb1ee264-29a5-4b8e-8667-2b38e2b7ee7d-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/environment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/f0e4e5be-da46-408f-8fdc-a264672de8c6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/f3689147-12ae-4af0-9668-cfaa423ceb42-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/f4dee325-9965-45e9-8dde-6515e3df6930-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/f67c8041-7548-4dff-b67c-23a2b4b777de-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/fbe55564-14b8-4fb4-b1f0-5a8476c2c33a-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/fe9c5856-28d8-4989-a755-91ee264c0114-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/allure_results_files/fea6af58-31c0-4782-afcb-607c552c15b5-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/attachments/14eade2519f0443e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/attachments/183c6f4ed7c29998.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/attachments/18630be6ec2ab0f2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/attachments/1a0634921dd8597.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/attachments/1a68f0ddc0209349.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/attachments/2133d71dfd5741b7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/attachments/21ba97467ea70e95.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/attachments/24ae1af6a21c8c1c.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/attachments/2658d8aaa3c23d7e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/attachments/2c362c9a5396515a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/attachments/2ee4a943354f9ff.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/attachments/300a373459cc23a0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/attachments/3411ad443716fafa.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/attachments/38d2613b79e54671.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/attachments/3cbfa518b729b826.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/attachments/4507daac75dcdf55.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/attachments/5da50ce9153a2f65.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/attachments/6719da095ade0715.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/attachments/76463b706a6c1b78.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/attachments/813666987ac9037b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/attachments/828d5e642debc648.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/attachments/894a7df7245af268.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/attachments/89a7ede418934621.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/attachments/8a48100cef14f610.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/attachments/9c66129aa996d409.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/attachments/a13a92e8e2355b82.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/attachments/a519b308bf4d09cd.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/attachments/aca28c98ea3621a7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/attachments/adca356349124d3c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/attachments/adf1d028e2bda033.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/attachments/b55a21cfe64e3a43.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/attachments/c23d5383706429a7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/attachments/c5f8840de84e755.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/attachments/c99a388e5a4c8c78.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/attachments/cabbf50b53852d11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/attachments/d2b3c163cdcfeffc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/attachments/de8c1f1e85a56402.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/attachments/e074105e7df02d5d.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/attachments/eb101496628f3f9c.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/attachments/ec4534ee3a0cfbc3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/attachments/ed3e7f43b94407c4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/attachments/ee5d3390b2c8b248.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/attachments/ee92c36479920166.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/attachments/f0de823cb4a472e7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/attachments/f6eff728357dbb06.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/attachments/f9c18f04f0ecfc28.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/attachments/fa5f170cf1a05f8d.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/attachments/fe6bcb7d3159775.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/test-cases/259ca19c6a486e68.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/test-cases/34f9eb5d01f0492e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/test-cases/4b2842b9ab1053dd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/test-cases/6e61d9927dc14d1e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/test-cases/94feb7eebd87a025.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/test-cases/aeacdd37f3468731.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/test-cases/f4820701fdf7e0f3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/cases/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/cases/test_login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/cases/test_product_business.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/t_log/content.log.2024-03-17" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/t_log/time.log.2024-05-19_17-29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/apiutils_business.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/apiutils_single.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/assertion_tools.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/db_connector/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/db_connector/connectMysql.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/dingding_rebot/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/dingding_rebot/ding_rebot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/exception_utils/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/generate_id.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/log_tool/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/log_tool/log_tool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/test_adduser.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/colorlog-6.8.2.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/colorlog-6.8.2.dist-info/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/colorlog-6.8.2.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/colorlog-6.8.2.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/colorlog-6.8.2.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/colorlog-6.8.2.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/colorlog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/colorlog/escape_codes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/colorlog/formatter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/colorlog/py.typed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/colorlog/wrappers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/CONF.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/CONF.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcase/t_yaml/yaml_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/t_yaml/yaml_demo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/AssertUtil.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/AssertUtil.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/conf.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/adduser.yml" beforeDir="false" afterPath="$PROJECT_DIR$/data/adduser.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/config.ini" beforeDir="false" afterPath="$PROJECT_DIR$/data/config.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/login.yml" beforeDir="false" afterPath="$PROJECT_DIR$/data/login.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extract.yml" beforeDir="false" afterPath="$PROJECT_DIR$/extract.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2023-11-25.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2023-11-26.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2023-12-15.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2023-12-17.log" beforeDir="false" afterPath="$PROJECT_DIR$/config/setting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2024-03-08.log" beforeDir="false" afterPath="$PROJECT_DIR$/data/fileupload.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2024-04-25.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/allure_results_files/8d495cd5-118c-47c5-a299-29373527f006-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/allure_results_files/a1b98f76-1551-4903-9eb7-e560a5dbcfd8-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/allure_results_files/e6bce404-4e0c-4a9e-bdaa-c8621308a927-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/data/behaviors.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/data/behaviors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/data/categories.csv" beforeDir="false" afterPath="$PROJECT_DIR$/environment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/data/categories.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/data/packages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/data/suites.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/data/suites.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/data/test-cases/3c28c90d4fe05d4f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/data/test-cases/6b4c6138e1a8fb5e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/data/test-cases/a18d91c950ca52d3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/data/timeline.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/export/influxDbData.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/export/mail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/export/prometheusData.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/history/categories-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/history/duration-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/history/history-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/history/history.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/history/retry-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/plugin/behaviors/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/plugin/packages/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/plugin/screen-diff/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/plugin/screen-diff/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/reports.html/data/behaviors.csv" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/behaviors.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/reports.html/data/behaviors.json" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/behaviors.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/reports.html/data/categories.csv" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/categories.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/reports.html/data/categories.json" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/categories.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/reports.html/data/packages.json" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/packages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/reports.html/data/suites.csv" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/suites.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/reports.html/data/suites.json" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/suites.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/reports.html/data/test-cases/2c1631f952a04a6b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/reports.html/data/test-cases/57836bdc8c7fd38.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/reports.html/data/test-cases/95423dcbc9fd2ab5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/reports.html/data/test-cases/970e74ed6f160a23.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/reports.html/data/test-cases/f5caf12783badbfd.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/reports.html/data/test-cases/ff5130b8cb8990d3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/reports.html/data/timeline.json" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/html/reports.html/data/timeline.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/reports.html/export/influxDbData.txt" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/html/reports.html/export/influxDbData.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/reports.html/export/prometheusData.txt" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/html/reports.html/export/prometheusData.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/reports.html/history/categories-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/html/reports.html/history/categories-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/reports.html/history/duration-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/html/reports.html/history/duration-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/reports.html/history/history-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/html/reports.html/history/history-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/reports.html/history/history.json" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/html/reports.html/history/history.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/reports.html/history/retry-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/html/reports.html/history/retry-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/reports.html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/html/reports.html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/reports.html/widgets/behaviors.json" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/html/reports.html/widgets/behaviors.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/reports.html/widgets/categories-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/html/reports.html/widgets/categories-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/reports.html/widgets/categories.json" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/html/reports.html/widgets/categories.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/reports.html/widgets/duration-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/html/reports.html/widgets/duration-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/reports.html/widgets/duration.json" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/html/reports.html/widgets/duration.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/reports.html/widgets/environment.json" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/html/reports.html/widgets/environment.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/reports.html/widgets/history-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/html/reports.html/widgets/history-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/reports.html/widgets/retry-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/html/reports.html/widgets/retry-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/reports.html/widgets/severity.json" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/html/reports.html/widgets/severity.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/reports.html/widgets/status-chart.json" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/html/reports.html/widgets/status-chart.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/reports.html/widgets/suites.json" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/html/reports.html/widgets/suites.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/reports.html/widgets/summary.json" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/html/reports.html/widgets/summary.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/widgets/behaviors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/widgets/categories-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/widgets/categories.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/widgets/duration-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/widgets/duration.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/widgets/environment.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/widgets/executors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/widgets/history-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/widgets/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/widgets/retry-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/widgets/severity.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/widgets/status-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/widgets/suites.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/html/widgets/summary.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytest.ini" beforeDir="false" afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/t_allure/11.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/re_mod/11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/t_allure/re模块.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/re_mod/re模块.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/t_allure/test_allure1.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/t_allure/test_allure_d1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/t_allure/test_allure_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/t_allure/test_allure_d2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/t_log/content.log" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/t_log/content.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/t_log/time.log" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/t_log/time.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/t_log/使用单例模式封装logger.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/t_log/使用单例模式封装logger.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/utils/RequestsUtil.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/RequestsUtil.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/utils/YamlUtil.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/YamlUtil.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/apiutils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/configparserUtil.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/configparserUtil.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/debugtalk.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/debugtalk.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/utils/fhfhf.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/fhfhf.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -82,7 +289,9 @@
     <setting file="file://$PROJECT_DIR$/testcase/t_fixture/test_fix1.py" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/testcase/t_log/根据时间来进行日志文件切割.py" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/testcase/t_log/使用单例模式封装logger.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/utils/dingding_rebot/ding_rebot.py" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/pytest.ini" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/utils/apiutils_single.py" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/run.py" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/testcase/t_fixture/test_102_demo.py" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/utils/YamlUtil.py" root0="SKIP_HIGHLIGHTING" />
@@ -91,13 +300,19 @@
     <setting file="file://$PROJECT_DIR$/pymsql_demo/p3.py" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/utils/RequestsUtil.py" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/utils/AssertUtil.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/utils/assertion_tools.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/data/config.ini" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/testcase/cases/test_login.py" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/utils/debugtalk.py" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/testcase/t_fixture/test_101_demo.py" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/testcase/t_allure/re模块.py" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/testcase/t_allure/11.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/testcase/re_mod/re模块.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/testcase/cases/test_product_business.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/testcase/re_mod/11.py" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/testcase/t_fixture/test_params_fix.py" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/testcase/t_configparser/configparser模块详解.py" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/utils/apiutils.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/conftest.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/utils/log_tool/log_tool.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/utils/apiutils_business.py" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="2Y50H1PA3cOKjTRg5mU8jSNBUJP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -107,17 +322,20 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/data" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../webproject" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\InterAutoTest_W\data" />
       <recent name="D:\InterAutoTest_W\utils" />
+      <recent name="D:\InterAutoTest_W\utils\exception_utils" />
+      <recent name="D:\InterAutoTest_W\data\productdata" />
       <recent name="D:\InterAutoTest_W\testcase\t_fixture" />
-      <recent name="D:\InterAutoTest_W\testcase\t_excel" />
-      <recent name="D:\InterAutoTest_W\testcase\t_pytest" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\InterAutoTest_W\testcase\re_mod" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -132,7 +350,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.configparserUtil">
+  <component name="RunManager" selected="Python.run">
     <configuration name="11" type="PythonConfigurationType" factoryName="Python">
       <module name="InterAutoTest_W" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -155,29 +373,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="CONF" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="InterAutoTest_W" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/config" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/config/CONF.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="LogUtil" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="apiutils_single" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="InterAutoTest_W" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -190,7 +386,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils/LogUtil.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils/apiutils_single.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -199,7 +395,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="configparserUtil" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="assertion_tools" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="InterAutoTest_W" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -212,7 +408,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils/configparserUtil.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils/assertion_tools.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -221,7 +417,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="p1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="log_tool" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="InterAutoTest_W" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -229,12 +425,56 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pymsql_demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utils/log_tool" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pymsql_demo/p1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils/log_tool/log_tool.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="使用单例模式封装logger" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="InterAutoTest_W" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/t_log" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcase/t_log/使用单例模式封装logger.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="InterAutoTest_W" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -265,29 +505,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in test_params_fix.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="InterAutoTest_W" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/t_fixture" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/testcase/t_fixture/test_params_fix.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.configparserUtil" />
-        <item itemvalue="Python tests.pytest in test_params_fix.py" />
-        <item itemvalue="Python.LogUtil" />
-        <item itemvalue="Python.CONF" />
-        <item itemvalue="Python.p1" />
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python.apiutils_single" />
+        <item itemvalue="Python.assertion_tools" />
+        <item itemvalue="Python.log_tool" />
+        <item itemvalue="Python.使用单例模式封装logger" />
       </list>
     </recent_temporary>
   </component>
@@ -410,7 +634,23 @@
       <workItem from="1714011375269" duration="4223000" />
       <workItem from="1714108139602" duration="2418000" />
       <workItem from="1714196696181" duration="6201000" />
-      <workItem from="1714309275405" duration="665000" />
+      <workItem from="1714309275405" duration="8307000" />
+      <workItem from="1714358052536" duration="23841000" />
+      <workItem from="1714448258981" duration="1201000" />
+      <workItem from="1714974823649" duration="6885000" />
+      <workItem from="1715089411136" duration="620000" />
+      <workItem from="1715139802574" duration="30515000" />
+      <workItem from="1715219395620" duration="1838000" />
+      <workItem from="1715418494244" duration="4837000" />
+      <workItem from="1715492521235" duration="12178000" />
+      <workItem from="1715567296008" duration="15860000" />
+      <workItem from="1715652372008" duration="12123000" />
+      <workItem from="1715736177495" duration="18213000" />
+      <workItem from="1715825516294" duration="27015000" />
+      <workItem from="1715913357729" duration="17897000" />
+      <workItem from="1716007742548" duration="6953000" />
+      <workItem from="1716093927647" duration="19435000" />
+      <workItem from="1716214365626" duration="1737000" />
     </task>
     <servers />
   </component>
@@ -451,11 +691,12 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/InterAutoTest_W$testlgin.coverage" NAME="testlgin Coverage Results" MODIFIED="1701163105949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_yaml" />
-    <SUITE FILE_PATH="coverage/InterAutoTest_W$YamlUtil.coverage" NAME="YamlUtil Coverage Results" MODIFIED="1713854658761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
-    <SUITE FILE_PATH="coverage/InterAutoTest_W$run.coverage" NAME="run Coverage Results" MODIFIED="1708231682073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$YamlUtil.coverage" NAME="YamlUtil Coverage Results" MODIFIED="1715940786617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$run.coverage" NAME="run Coverage Results" MODIFIED="1716117917392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$test_demo.coverage" NAME="test_demo Coverage Results" MODIFIED="1706765923085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_pytest" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$CONF.coverage" NAME="CONF Coverage Results" MODIFIED="1714015308085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config" />
-    <SUITE FILE_PATH="coverage/InterAutoTest_W$.coverage" NAME="根据时间来进行日志文件切割 Coverage Results" MODIFIED="1710677035851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_log" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$ding_rebot.coverage" NAME="ding_rebot Coverage Results" MODIFIED="1716106772606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils/dingding_rebot" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$.coverage" NAME="根据时间来进行日志文件切割 Coverage Results" MODIFIED="1716111610399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_log" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$ExcelData.coverage" NAME="ExcelData Coverage Results" MODIFIED="1702269099534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$configparser.coverage" NAME="configparser模块详解 Coverage Results" MODIFIED="1713516707359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_configparser" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$pytest_demo.coverage" NAME="pytest_demo Coverage Results" MODIFIED="1701058807046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_pytest" />
@@ -464,10 +705,13 @@
     <SUITE FILE_PATH="coverage/InterAutoTest_W$pytest_in_test_103_demo_py.coverage" NAME="pytest in test_103_demo.py Coverage Results" MODIFIED="1702191007980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_fixture" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$11.coverage" NAME="11 Coverage Results" MODIFIED="1701523650726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$11__1_.coverage" NAME="11 (1) Coverage Results" MODIFIED="1702806122553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_allure" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$generate_id.coverage" NAME="generate_id Coverage Results" MODIFIED="1715957547243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$test_excel_demo.coverage" NAME="test_excel_demo Coverage Results" MODIFIED="1701840395341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_excel" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$d1.coverage" NAME="d1 Coverage Results" MODIFIED="1707974637990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/requests_lib" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$connectMysql.coverage" NAME="connectMysql Coverage Results" MODIFIED="1715680205899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils/db_connector" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$test_excel_case.coverage" NAME="test_excel_case Coverage Results" MODIFIED="1701826895163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_excel" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$pytest_in_test_allure_demo_py.coverage" NAME="pytest in test_allure_demo.py Coverage Results" MODIFIED="1701942679575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_allure" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$RequestsUtil.coverage" NAME="RequestsUtil Coverage Results" MODIFIED="1715595359459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$pytest_in_test_fix2_py.coverage" NAME="pytest in test_fix2.py Coverage Results" MODIFIED="1708149155391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_fixture" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$test_pytest_html.coverage" NAME="test_pytest_html Coverage Results" MODIFIED="1701059207830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_pytest" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$pytest_in_test_params_two_py.coverage" NAME="pytest in test_params_two.py Coverage Results" MODIFIED="1702561580288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_pytest" />
@@ -476,17 +720,20 @@
     <SUITE FILE_PATH="coverage/InterAutoTest_W$yaml_demo.coverage" NAME="yaml_demo Coverage Results" MODIFIED="1702883654184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_yaml" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$ExcelUtil.coverage" NAME="ExcelUtil Coverage Results" MODIFIED="1708243230044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$p2.coverage" NAME="p2 Coverage Results" MODIFIED="1701003327901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pymsql_demo" />
-    <SUITE FILE_PATH="coverage/InterAutoTest_W$apiutils.coverage" NAME="apiutils Coverage Results" MODIFIED="1713885643971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$apiutils.coverage" NAME="apiutils Coverage Results" MODIFIED="1715918970236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$test_params_two.coverage" NAME="test_params_two Coverage Results" MODIFIED="1701075113714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_pytest" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$jsonpath_demo.coverage" NAME="jsonpath_demo Coverage Results" MODIFIED="1709549776740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
-    <SUITE FILE_PATH="coverage/InterAutoTest_W$logger.coverage" NAME="使用单例模式封装logger Coverage Results" MODIFIED="1710684680561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_log" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$logger.coverage" NAME="使用单例模式封装logger Coverage Results" MODIFIED="1716111870711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_log" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$pytest_in_test_excel_demo_py.coverage" NAME="pytest in test_excel_demo.py Coverage Results" MODIFIED="1708243781530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_excel" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$pytest_in_test_params_one_py.coverage" NAME="pytest in test_params_one.py Coverage Results" MODIFIED="1706788856168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_pytest" />
-    <SUITE FILE_PATH="coverage/InterAutoTest_W$p3.coverage" NAME="p3 Coverage Results" MODIFIED="1701006032100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pymsql_demo" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$p3.coverage" NAME="p3 Coverage Results" MODIFIED="1715677656945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pymsql_demo" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$testlogin.coverage" NAME="testlogin Coverage Results" MODIFIED="1701163688106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_yaml" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$pytest_in_test_02_demo_py.coverage" NAME="pytest in test_02_demo.py Coverage Results" MODIFIED="1702190541136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_fixture" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$log_demo.coverage" NAME="log_demo Coverage Results" MODIFIED="1710667582696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_log" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$LogUtil.coverage" NAME="LogUtil Coverage Results" MODIFIED="1714015319976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$log_tool.coverage" NAME="log_tool Coverage Results" MODIFIED="1716116171815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils/log_tool" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$apiutils_single.coverage" NAME="apiutils_single Coverage Results" MODIFIED="1716117268428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$assertion_tools.coverage" NAME="assertion_tools Coverage Results" MODIFIED="1716117095376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$debugtalk.coverage" NAME="debugtalk Coverage Results" MODIFIED="1713883812807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$p1.coverage" NAME="p1 Coverage Results" MODIFIED="1714011513843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pymsql_demo" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$log_console_demo.coverage" NAME="log_console_demo Coverage Results" MODIFIED="1702456536316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_log" />
@@ -494,10 +741,12 @@
     <SUITE FILE_PATH="coverage/InterAutoTest_W$d22.coverage" NAME="d22 Coverage Results" MODIFIED="1709525341219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$start.coverage" NAME="start Coverage Results" MODIFIED="1702365345944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_yaml" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$pytest_in_test_auth_demo_py.coverage" NAME="pytest in test_auth_demo.py Coverage Results" MODIFIED="1709883299450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_args" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$setting.coverage" NAME="setting Coverage Results" MODIFIED="1716110382280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$1__1_.coverage" NAME="1 (1) Coverage Results" MODIFIED="1701182902246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$pytest_in_test_fix1_py.coverage" NAME="pytest in test_fix1.py Coverage Results" MODIFIED="1702801304139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_fixture" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$ReadCsv.coverage" NAME="ReadCsv Coverage Results" MODIFIED="1708241695930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
-    <SUITE FILE_PATH="coverage/InterAutoTest_W$conftest.coverage" NAME="conftest Coverage Results" MODIFIED="1702263358402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_modifyitems" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$pytest_in_login_py.coverage" NAME="pytest in login.py Coverage Results" MODIFIED="1715872640822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/cases" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$conftest.coverage" NAME="conftest Coverage Results" MODIFIED="1716021930403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$Base.coverage" NAME="Base Coverage Results" MODIFIED="1701344674390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$pytest_func.coverage" NAME="pytest_func Coverage Results" MODIFIED="1701058154170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_pytest" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$pytest_in_test_demo01_py.coverage" NAME="pytest in test_demo01.py Coverage Results" MODIFIED="1706764346369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_modifyitems" />
@@ -513,8 +762,9 @@
     <SUITE FILE_PATH="coverage/InterAutoTest_W$pytest_in_test_01_demo_py.coverage" NAME="pytest in test_01_demo.py Coverage Results" MODIFIED="1702188433707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_fixture" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$pytest_in_test_params_multi_py.coverage" NAME="pytest in test_params_multi.py Coverage Results" MODIFIED="1706787239198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_pytest" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$test_login.coverage" NAME="test_login Coverage Results" MODIFIED="1701163741721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_yaml" />
-    <SUITE FILE_PATH="coverage/InterAutoTest_W$fhfhf.coverage" NAME="fhfhf Coverage Results" MODIFIED="1713872330259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
-    <SUITE FILE_PATH="coverage/InterAutoTest_W$configparserUtil.coverage" NAME="configparserUtil Coverage Results" MODIFIED="1714227790554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$login.coverage" NAME="login Coverage Results" MODIFIED="1715423874936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/cases" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$fhfhf.coverage" NAME="fhfhf Coverage Results" MODIFIED="1715917152134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/InterAutoTest_W$configparserUtil.coverage" NAME="configparserUtil Coverage Results" MODIFIED="1715613846105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$conf.coverage" NAME="conf Coverage Results" MODIFIED="1700898356699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config" />
     <SUITE FILE_PATH="coverage/InterAutoTest_W$test_subprocess_demo.coverage" NAME="test_subprocess_demo Coverage Results" MODIFIED="1701331955571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/t_subprocess" />
   </component>

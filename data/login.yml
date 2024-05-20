@@ -2,10 +2,24 @@
     api_name: 用户登录
     url: /dar/user/login
     method: post
-    header:
-        Content-Type: application/x-www-formurlencoded;charset=UTF-8
-    testCase:
-        - case: 用户正常登录校验
-          data:
-              username: test01
-              password: admin123
+    headers:
+#      ${get_headers(data)}
+      Content-Type: application/x-www-formurlencoded;charset=UTF-8
+    cookies:
+      cookie: 75hb6j35b4n766j36kk756j43436k56jk34j6
+  testCase:
+    - case: 用户正常登录校验
+      data:
+        username: test01
+        password: admin123
+        sex: ${get_extract_data(sex)}
+      validation:
+        - contain: {'msg':'${get_extract_data(login_status)}'}
+        - code: 200
+#        - contain: {'msg':'登录成功'}
+        - eq: {'res':'走在奋斗的路上'}
+        - ne: {'ros': '加油'}
+      extract:
+#        token: '"token":"(.+?)"'
+        token: $.token
+        msg: '"msg_code": (\d+)'

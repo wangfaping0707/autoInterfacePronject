@@ -1,0 +1,19 @@
+- baseinfo:
+    api_name: 获取商品列表
+    url: /coupApply/cms/goodList
+    method: get
+    headers:
+      ${get_headers(data)}
+    cookies:
+      cookie: 75hb6j35b4n766j36kk756j43436k56jk34j6
+  testCase:
+    - case: 获取列表正常校验
+      params:
+        msgType: getHandsetListOfCust
+        page: 1
+        size: 20
+      validation:
+        - contain: {'error_code':'0000'}
+      extract_list:
+#        good_ids: '"goodsId":\s*"(\d+)"'
+        good_ids: $.goodsList[*].goodsId

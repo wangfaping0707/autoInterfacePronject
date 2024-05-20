@@ -1,0 +1,90 @@
+- baseinfo:
+    api_name: 获取商品列表
+    url: /coupApply/cms/goodList
+    method: get
+    headers:
+      ${get_headers(data)}
+    cookies:
+      cookie: 75hb6j35b4n766j36kk756j43436k56jk34j6
+  testCase:
+    - case: 获取商品列表
+      params:
+        msgType: getHandsetListOfCust
+        page: 1
+        size: 20
+      validation:
+        - code: 200
+        - eq: {'error_code':'0000'}
+      extract_list:
+        #        good_ids: '"goodsId":\s*"(\d+)"'
+        good_ids: $.goodsList[*].goodsId
+- baseinfo:
+    api_name: 获取商品详情信息
+    url: /coupApply/cms/productDetail
+    method: post
+    headers:
+      ${get_headers(json)}
+  testCase:
+    - case: 获取商品详情
+      json:
+        pro_id: ${get_extract_data(goodids,1)}
+        page: 1
+        size: 20
+      validation:
+        - code: 200
+        - eq: {'error_code':'0000'}
+- baseinfo:
+    api_name: 提交订单
+    url: /coupApply/cms/placeAnOrder
+    method: post
+    headers:
+      ${get_headers(json)}
+  testCase:
+    - case: 商品提交订单
+      json:
+        goods_id: ${get_extract_data(goodids,1)}
+        number: 2
+        propertyChildIds: '2:9'
+        inviter_id: 127839112
+        price: '128'
+        freight_insurance: '0.00'
+        discount_code: 002399
+        consignee_info:
+          name: 张三
+          phone: 13800000000
+          address: 北京市海淀区西三环北路74号院4栋3单元1008
+      validation:
+        - code: 200
+        - eq: {'message':'提交订单成功'}
+      extract:
+        orderNum: $.orderNumber
+        user_id: $.userId
+- baseinfo:
+    api_name: 订单支付
+    url: /coupApply/cms/orderPay
+    method: post
+    headers:
+      ${get_headers(json)}
+  testCase:
+    - case: 商品提交订单
+      json:
+        orderNumber: ${get_extract_data(orderNum)}
+        userId: ${get_extract_data(user_id)}
+        timeStamp: ${get_current_timestamp()}
+      validation:
+        - code: 200
+        - eq: {'message':'订单支付成功'}
+- baseinfo:
+    api_name: 校验订单状态
+    url: /coupApply/cms/checkOrderStatus
+    method: post
+    headers:
+      ${get_headers(json)}
+  testCase:
+    - case: 校验商品订单状态
+      json:
+        orderNumber: ${get_extract_data(orderNum)}
+        timeStamp: 123456
+      validation:
+        - code: 200
+        - eq: {'status':'0'}

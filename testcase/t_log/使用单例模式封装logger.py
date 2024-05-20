@@ -13,7 +13,7 @@ class GetLogger:
 			# 设置日志器接受日志级别
 			cls.logger.setLevel(logging.INFO)
 
-			# 设置日志 文件处理器
+			# 设置写入文件处理器
 			file_handler = logging.handlers.TimedRotatingFileHandler(filename='./content.log', when='midnight',
 			                                                         interval=1,
 			                                                         backupCount=10, encoding="utf-8")

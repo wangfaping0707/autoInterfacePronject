@@ -2,14 +2,20 @@
     api_name: 用户新增
     url: /dar/user/addUser
     method: post
-    header:
-        Content-Type: application/x-www-formurlencoded;charset=UTF-8
-    testCase:
-        - case: 用户新增校验
-          data:
-              username: testadduser
-              password: test202404231442
-              role_id: 7894561230
-              dates: ${get_current_timestamp()}
-              phone: 13800007561
-              token: ${get_extract_data(goodids,2)}
+    headers:
+      Content-Type: application/x-www-formurlencoded;charset=UTF-8
+    cookies:
+      cookie: 75hb6j35b4n766j36kk756j43436k56jk34j6
+  testCase:
+    - case: 用户新增正常校验
+      data:
+        username: testadduser
+        password: test202404231442
+        role_id: 7894561230
+        dates: ${get_current_timestamp()}
+        phone: 13800007561
+        token: ${get_extract_data(token)}
+      validation:
+        - code: 200
+        - eq: {"msg":"新增成功"}
+        - db: select * from ecs_users where user_name='testadduser'
